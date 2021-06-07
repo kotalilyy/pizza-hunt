@@ -1,5 +1,7 @@
 # Pizza Hunt
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Pizza Hunt allows users to connect with each other based on their love of Pizza! Users can share and discuss their dream pizza-topping combinations. I assisted in creating an API layer on the back end for this application, using MongoDB as the database system.
 
 
@@ -7,21 +9,14 @@ Pizza Hunt allows users to connect with each other based on their love of Pizza!
 
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
-  - [Usage](#usage)
   - [Installation](#installation)
   - [Tests](#tests)
   - [License](#license)
   - [Credits](#credits)
-  - [Contributing](#contributing)
+  - [Contributions](#contributing)
   - [Questions](#questions)
 
-## Usage
-
 ## Installation
-
-```bash
-npm i
-```
 
 ```bash
 npm install mongoose
@@ -29,13 +24,11 @@ npm install mongoose
 
 ## Tests
 
-```bash
-npm start
-```
-
+[Jest]
+[Insomnia]
 ## License
 
-MIT
+[MIT](https://opensource.org/licenses/MIT)
 
 ## Credits
 
@@ -45,17 +38,10 @@ MIT
 
 [Mongo Shell Quick References](https://docs.mongodb.com/manual/reference/mongo-shell/)
 
-## Contributing 
+## Contributions
 
-Created with ❤️ by Dakota Nelson
+Created with ❤️ by [Dakota Nelson](https://github.com/kotalilyy)
 
 ## Questions
 
-Get in touch with me at kotalilyy@gmail.com 
-
-
-
-
-
-
-
+<a href="mailto:kotalilyy@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
