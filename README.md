@@ -1,6 +1,5 @@
 # Pizza Hunt
 
-
 Pizza Hunt allows users to connect with each other based on their love of Pizza! Users can share and discuss their dream pizza-topping combinations. I assisted in creating an API layer on the back end for this application, using MongoDB as the database system.
 
 
