@@ -1,39 +1,47 @@
 # Pizza Hunt
 
-Pizza Hunt is a self-aware riff on social-media applications, that lets users connect with each other based on their love of pizza! In Pizza Hunt, users can share and discuss their dream pizza-topping combinations.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Pizza Hunt allows users to connect with each other based on their love of Pizza! Users can share and discuss their dream pizza-topping combinations. I assisted in creating an API layer on the back end for this application, using MongoDB as the database system.
+
 
 ## Table of Contents
 
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
-  - [Usage](#usage)
-  - [Credits](#credits)
+  - [Tests](#tests)
   - [License](#license)
-  - [Contributing](#contributing)
+  - [Credits](#credits)
+  - [Contributions](#contributing)
   - [Questions](#questions)
 
 ## Installation
-Follow this [Link](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/) for MongoDB Installation Instructions
- 
-## Usage
+
+```bash
+npm install mongoose
+```
+
+## Tests
+
+[Jest]
+[Insomnia]
+## License
+
+[MIT](https://opensource.org/licenses/MIT)
 
 ## Credits
 
-[MongoDB](https://www.mongodb.com/), a document-based NoSQL database
+[MongoDB Documentation](https://www.mongodb.com/)
 
-[Mongoose](https://www.npmjs.com/package/mongoose), an Object-Document Mapper, to work with unstructured data
+[MongooseJS Documentation](https://mongoosejs.com/)
 
-[Mongo Shell Commands](https://docs.mongodb.com/manual/reference/mongo-shell/)
+[Mongo Shell Quick References](https://docs.mongodb.com/manual/reference/mongo-shell/)
 
-## License
+## Contributions
 
-MIT
-
-## Contributing 
-
-Create a pull request to contribute! 
+Created with ❤️ by [Dakota Nelson](https://github.com/kotalilyy)
 
 ## Questions
 
-If you have any questions you can reach me at kotalilyy@gmail.com
+<a href="mailto:kotalilyy@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
