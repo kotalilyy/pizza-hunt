@@ -1,5 +1,8 @@
 # Pizza Hunt
 
+![pizza](https://user-images.githubusercontent.com/77229281/129642232-96a98bda-1307-46a4-b78d-e6f7a6f938a1.png)
+
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
