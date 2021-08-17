@@ -15,8 +15,7 @@ Pizza Hunt allows users to connect with each other based on their love of Pizza.
   - [Installation](#installation)
   - [Tests](#tests)
   - [License](#license)
-  - [Credits](#credits)
-  - [Contributions](#contributing)
+  - [Contributions](#contributions)
   - [Questions](#questions)
 
 ## Installation
